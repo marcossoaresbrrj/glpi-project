@@ -1,2 +1,3 @@
 # glpi-project
-playbook de provisionamento da aplicação glpi.
+Aqui será documentado como utilizar esse repositorio para automatizar
+<br>a aplicação GLPI usando o ansbile como ferramenta de provisionamento.
